@@ -1,0 +1,13 @@
+.style {
+  font-family: monospace;
+  font-weight: normal;
+  color: orange;
+  font-size: 24px;
+}
+
+.bold {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  color: #3aa1d1;
+}
